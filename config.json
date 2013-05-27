@@ -3,7 +3,7 @@
     "url": "http://localhost:8080",
     "name": "jkimbo",
     "owner": "Jonathan Kim",
-    "description": "-"
+    "description": "..."
   },
   "views": "./views",
   "plugins": [
