@@ -12,6 +12,8 @@ barely readable conciousness for the time being until I find some kind of focus.
 It is also, currently, an exercise in talking to myself as I imagine it will be
 a long time (if ever) until some other eyes read these words.
 
+<span class="more"></span>
+
 I guess I should introduce myself. My name is Jonathan Kim and I am a 23 year
 old male living in London making my way in the world as a web developer. I
 really have no idea what that title means as the world of the web is so vast now
